@@ -32,7 +32,7 @@ Pastikan php yang terinstall di laptop kalian adalah php versi 7 keatas. Saya me
 
 ```
     ~$ cd folder_tujuan
-    ~$ git clone https://github.com/MuhamadOskhar/web-sekolah.git
+    ~$ git clone https://github.com/AbdoelMadjid/web_sakola.git
     ~$ cd web-sekolah
 ```
 
